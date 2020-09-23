@@ -1,3 +1,3 @@
 # Lections
  
-Some *useful* shit from algs and data structs lecctions.
+Some *useful* shit from **Algorithms and Data structures lections** from **FEFU** 2020.
